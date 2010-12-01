@@ -1,0 +1,8 @@
+# default.gems generated gem export file. Note that any env variable settings will be missing. Append these after using a ';' field separator
+archive-tar-minitar -v0.5.2
+linecache19 -v0.5.11
+ruby-debug-base19 -v0.11.24
+ruby-debug19 -v0.11.6
+ruby_core_source -v0.1.4
+sequel -v3.17.0
+sqlite3-ruby -v1.3.2
